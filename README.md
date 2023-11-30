@@ -1,4 +1,4 @@
-# Curso_Python
+# Curso_GIT
 Hice este pequeño readme para que puedan probar la clonacion de repositorios.
 
 Tambien, ya que estamos, les dejo un apunte rapido de git realizado por un profesor de la universidad de la UNAHUR.
